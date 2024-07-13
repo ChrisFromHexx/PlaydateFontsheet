@@ -51,7 +51,7 @@ cd ~/Developer
 
 git clone git@github.com:ChrisFromHexx/PlayDateFontSheet.git
 
-cd ./PlaydateFontSheet
+cd ./PlaydateFontsheet
 
 ./scripts/installSampleFont.sh
 
@@ -66,7 +66,7 @@ cd ~/Developer
 
 git clone git@github.com:ChrisFromHexx/PlayDateFontSheet.git
 
-cd ./PlaydateFontSheet
+cd ./PlaydateFontsheet
 
 swift build -c release
 
